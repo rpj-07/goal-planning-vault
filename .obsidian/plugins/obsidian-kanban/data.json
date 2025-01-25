@@ -1,0 +1,16 @@
+{
+  "metadata-keys": [
+    {
+      "metadataKey": "status",
+      "label": "Status",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Milestone",
+      "label": "Milestone",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
+}

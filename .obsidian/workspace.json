@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "781357f73f2ea51b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2de97ba180c740c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb932956572025a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start here.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "start here"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de163bd54a8a4463",
+    "type": "split",
+    "children": [
+      {
+        "id": "051f883496069869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b175c3484656a3b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d1b877789211103",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9689d649903174a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f8261e7eb8ceef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5a238cd7599fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "681be92d9f792dc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "start here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for start here"
+            }
+          },
+          {
+            "id": "3d3993e64f1e5d87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a19cf1d9fb30af5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "354da9d16093715d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "milestone-timeline-sync:Sync Milestones with Timeline": false,
+      "project-timeline-sync:Sync Projects with Timeline": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "markwhen:Create new Markwhen file": false
+    }
+  },
+  "active": "b175c3484656a3b9",
+  "lastOpenFiles": [
+    "goal planning/Dashboard.md",
+    "goal planning/milestones/M} listen to podcasts.md",
+    "goal planning/milestones/M} finish maths with an A+.md",
+    "0_Templates/milestone (auto) - template.md",
+    "goal planning/projects/P} write down informations from the 'huberman'-podcast.md",
+    "0_Templates/weekly goals - template.md",
+    "0_Templates/yearly goal - template.md",
+    "0_Templates/project (manu) - template.md",
+    "0_Templates/project (auto) - template.md",
+    "start here.md",
+    "goal planning/Project Board.md",
+    "goal planning/goal-timeline (milestones).mw",
+    "goal planning/milestones/M} 2.3 Veröffentlichung der ersten Paper.md",
+    "goal planning/yearly goals/improve school.md",
+    "goal planning/yearly goals/learn extracurricular skills.md",
+    "goal planning/projects/P} work on exercise sheet number 4.md",
+    "goal planning/goal-timeline.mw",
+    "goal planning/projects/P} TEST.md",
+    "goal planning/projects/P} do all homeworks.md",
+    "goal planning/Goals.md",
+    "goal planning/Verwaltung Projekte.md",
+    "goal planning/Zielsetzung.md",
+    "goal planning/Untitled.md",
+    "goal planning/views/set-done-with-date.js",
+    "goal planning/weekly goals/W} Vollständige Nacharbeit des Skriptes auf den aktuellen Stand.md",
+    "goal planning/milestones/M} Test.md",
+    "goal planning/milestones/M} finish maths with A+.md",
+    "goal planning/yearly goals/1. Sehr gutes Zeugnis Q1.md",
+    "3_Areas/02_Zielsetzung/Ziele",
+    "3_Areas/02_Zielsetzung",
+    "3_Areas",
+    "goal planning/projects",
+    "0_Templates",
+    "New folder",
+    "goal planning/yearly goals"
+  ]
+}

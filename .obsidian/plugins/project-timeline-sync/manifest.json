@@ -1,0 +1,9 @@
+{
+  "id": "project-timeline-sync",
+  "name": "Project Timeline Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Synchronisiert Projekt-Notizen mit Markwhen Timeline",
+  "author": "Ihr Name",
+  "isDesktopOnly": false
+}

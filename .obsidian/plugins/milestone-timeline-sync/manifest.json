@@ -1,0 +1,10 @@
+{
+  "id": "milestone-timeline-sync",
+  "name": "Milestone Timeline Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Synchronizes milestone notes (with goal/focus tags) with a Markwhen timeline file",
+  "author": "Your Name",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
